@@ -49,6 +49,7 @@ You must have **Java 17+**, **Node.js/npm**, and a running **PostgreSQL** instan
 
 ### 1. Clone Repo
 ```bash
-
+git clone https://github.com/shivani0927/Task-Manager-Using-Spring-Boot-React.git
+```
 
 
